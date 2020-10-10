@@ -1,6 +1,6 @@
-# flutter_app
+# flutter_app_customNavigator
 
-A new Flutter application.
+Demo is 2nd example
 
 ## Getting Started
 

@@ -1,9 +1,9 @@
 import 'package:custom_navigator/custom_navigation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_app/second_example/accountPage.dart';
-import 'file:///C:/Users/ayafa/AndroidStudioProjects/flutter_app/lib/second_example/home/homePage.dart';
+import 'package:flutter_app/second_example/home/homePage.dart';
 import 'package:flutter_app/second_example/locationPage.dart';
-import 'file:///C:/Users/ayafa/AndroidStudioProjects/flutter_app/lib/second_example/search/searchPage.dart';
+import 'package:flutter_app/second_example/search/searchPage.dart';
 import 'package:flutter_app/second_example/settingsPage.dart';
 
 class HomeTabsPage extends StatefulWidget {
